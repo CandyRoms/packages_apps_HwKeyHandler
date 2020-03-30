@@ -1,5 +1,5 @@
--keep public class com.aquarios.hwkey.HardkeyActionHandler
+-keep public class org.candy.hwkey.HardkeyActionHandler
 
--keepclassmembers public class com.aquarios.hwkey.HardkeyActionHandler {
+-keepclassmembers public class org.candy.hwkey.HardkeyActionHandler {
     *;
 }

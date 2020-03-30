@@ -23,7 +23,7 @@
  *
  */
 
-package com.aquarios.hwkey;
+package org.candy.hwkey;
 
 import static android.view.WindowManager.LayoutParams.PRIVATE_FLAG_KEYGUARD;
 import static android.view.WindowManager.LayoutParams.TYPE_KEYGUARD_DIALOG;
